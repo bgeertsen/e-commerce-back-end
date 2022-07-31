@@ -16,7 +16,12 @@ Backend code for a hypothetical e-commerce site using Sequelize and MySQL
 
 ## Installation
 
-After downloading the files, run 'source db/schema.sql' in mysql shell. After that, you can seed the database by running 'npm run seed'. Finally to start the server run 'npm start'
+* Downloading the files
+* Fill out the EXAMPLE.env with your mysql login info and rename file to just '.env'
+* In the terminal run "npm i"
+* Run "source db/schema.sql" in mysql shell. 
+* Seed the database by running 'npm run seed'
+* To start the server run 'npm start'
 
 
 ## Usage 
