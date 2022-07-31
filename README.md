@@ -16,7 +16,7 @@ Backend code for a hypothetical e-commerce site using Sequelize and MySQL
 
 ## Installation
 
-* Downloading the files
+* Download the files
 * Fill out the EXAMPLE.env with your mysql login info and rename file to just '.env'
 * In the terminal run "npm i"
 * Run "source db/schema.sql" in mysql shell. 
