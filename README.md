@@ -27,7 +27,9 @@ Backend code for a hypothetical e-commerce site using Sequelize and MySQL
 ## Usage 
 
 Using insomnia you can test the different routes to create, read, update, and delete different products, categories, and tags
-[e-commerce-demo-vid.webm](https://user-images.githubusercontent.com/62928419/182039771-8239ff86-146f-445f-be2d-bb84794ab8b3.webm)
+
+
+[e-commerce-demo-vid.webm](https://user-images.githubusercontent.com/62928419/182039857-e027dfc1-ecf2-4aff-a957-7da5d3a62004.webm)
 
 
 ## Contributing
